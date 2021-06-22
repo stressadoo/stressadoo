@@ -7,3 +7,5 @@ I'm just a person who likes to program
 
 ### Get in touch:
 Discord: stressadoo#5364
+
+![Python](./images/python-dark.svg)
