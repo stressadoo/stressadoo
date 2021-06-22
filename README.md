@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm just a person who likes to program
+I'm just a person who likes to program.
 
 ### At this time:
 - I'm currently learning [Python](https://www.python.org/).
